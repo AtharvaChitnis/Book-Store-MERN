@@ -109,7 +109,9 @@ If you have any questions or want to discuss any of the lessons learned, feel fr
 
 Happy coding!
 
-less
+
+Replace `https://github.com/yourusername/book-store.git` and `https://www.linkedin.com/in/yourprofile` with your actual GitHub repository link and LinkedIn profile URL. This README provides a clear overview of your project and the steps to get it up and running.
+
 
 
 `https://github.com/AtharvaChitnis/book-store-mern.git` && `https://www.linkedin.com/in/atharvachitnis`

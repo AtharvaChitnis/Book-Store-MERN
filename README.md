@@ -61,15 +61,13 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/book-store.git
    cd book-store
 
-    Install server dependencies:
+Install server dependencies:
 
-    bash
-
-cd server
-npm install
+   bash
+   ```cd server
+   npm install
 
 Install client dependencies:
-
 bash
 
 cd ../client
